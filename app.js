@@ -18,6 +18,11 @@ const app = Vue.createApp({
             // reverse
             book.isFav = !book.isFav
         }
+    },
+    computed:{
+        filteredBooks(){
+            return this.books.filter((book)=>book.isFav)
+        }
     }
 })
 
