@@ -5,3 +5,5 @@ https://www.youtube.com/watch?v=GWRvrSqnFbM&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8
 2. Install package globally "npm install -g @vue/cli" in Computer
 3. Go to project folder directory
 4. Create project by "vue create namaproject"
+5. Select manually
+6. Choose Linter/Formatter version 3.x
