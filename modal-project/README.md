@@ -7,4 +7,3 @@ https://www.youtube.com/watch?v=GWRvrSqnFbM&list=PL4cUxeGkcC9hYYGbV60Vq3IXYNfDk8
 4. Create project by "vue create namaproject"
 5. Select manually
 6. Choose Linter/Formatter version 3.x
-7/
